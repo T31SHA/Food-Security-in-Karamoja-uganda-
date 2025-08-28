@@ -20,7 +20,7 @@ This project presents an **interactive Tableau dashboard** that monitors food se
 
 ---
 
-## 🛠️ Methodology
+##  Methodology
 1. Imported `.csv` datasets into Tableau.  
 2. Cleaned and standardized fields (districts and sub-counties).  
 3. Performed joins between **Population** and **Yield** datasets.  
@@ -29,7 +29,7 @@ This project presents an **interactive Tableau dashboard** that monitors food se
 
 ---
 
-## 📊 Dashboard Features
+##  Dashboard Features
 - **Map view** – Population and yields by district.  
 - **Bar charts** – Crop yields by sub-county.  
 - **Trend lines** – Yield changes over time.  
