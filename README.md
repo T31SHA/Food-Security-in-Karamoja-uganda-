@@ -54,7 +54,7 @@ This project presents an **interactive Tableau dashboard** that monitors food se
 ---
 
 ## How to Use
-1. Open the Tableau workbook in **Tableau Public/Desktop**.  
+1. Open the Tableau workbook in **https://public.tableau.com/app/profile/shaleen.taitumu/viz/group4_17573509270040/Dashboard1?publish=yes**.  
 2. Use the **controls** to explore trends.  
 3. Apply insights to support food security planning in Karamoja.  
 
